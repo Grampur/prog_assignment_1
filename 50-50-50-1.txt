@@ -1,0 +1,5 @@
+deals.shop.com;50-50-51-1
+sales.shop.com;50-50-51-2
+offers.shop.com;50-50-51-3
+products.shop.com;50-50-51-4
+returns.shop.com;50-50-51-5

@@ -1,0 +1,5 @@
+news.department.gov;75-75-77-1
+events.department.gov;75-75-77-2
+alerts.department.gov;75-75-77-3
+publications.department.gov;75-75-77-4
+policies.department.gov;75-75-77-5

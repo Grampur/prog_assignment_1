@@ -1,0 +1,5 @@
+university.edu;100-200-1-1
+college.edu;100-200-2-2
+academy.edu;100-200-3-3
+csumb.edu;100-200-25-35
+csun.edu;50-50-40-66

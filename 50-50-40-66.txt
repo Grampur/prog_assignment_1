@@ -1,0 +1,2 @@
+admissions.csun.edu;50-50-41-1
+library.csun.edu;50-50-42-1

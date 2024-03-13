@@ -1,0 +1,3 @@
+shop.com;50-50-50-1
+business.com;50-50-50-2
+service.com;50-50-50-3

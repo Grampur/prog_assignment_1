@@ -1,0 +1,5 @@
+enroll.academy.edu;100-200-3-30
+contact.academy.edu;100-200-3-31
+news.academy.edu;100-200-3-32
+events.academy.edu;100-200-3-33
+student.academy.edu;100-200-3-34

@@ -1,0 +1,5 @@
+market.business.com;50-50-52-1
+plan.business.com;50-50-52-2
+profile.business.com;50-50-52-3
+news.business.com;50-50-52-4
+careers.business.com;50-50-52-5

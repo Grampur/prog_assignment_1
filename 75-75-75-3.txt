@@ -1,0 +1,5 @@
+announcements.bureau.gov;75-75-78-1
+resources.bureau.gov;75-75-78-2
+policies.bureau.gov;75-75-78-3
+statistics.bureau.gov;75-75-78-4
+reports.bureau.gov;75-75-78-5

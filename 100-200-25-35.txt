@@ -1,0 +1,5 @@
+faculty.csumb.edu;100-200-25-40
+myraft.csumb.edu;100-200-25-41
+library.csumb.edu;100-200-25-42
+admission.csumb.edu;100-200-25-43
+portal.csumb.edu;100-200-25-44
